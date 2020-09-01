@@ -12,7 +12,7 @@ I teach the lab section of Stratigraphy and Sedimentology, an upper level course
 
 Outside of my research I enjoy rock climbing, yoga, hiking, and painting.
 
-![_config.yml]({{ site.baseurl }}/images/rock climbing_400px.jpg)
+![_config.yml]({{ site.baseurl }}/images/rock climbing_400px.png)
 
 ### Contact me
 
