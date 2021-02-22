@@ -6,6 +6,7 @@ title: Portfolio
 These are logos I've created
 
 ![_config.yml]({{ site.baseurl }}/images/AAPG logo 2020.png)
+![_config.yml]({{ site.baseurl }}/images/Stem 2021.jpg)
 ![_config.yml]({{ site.baseurl }}/images/iba logo_mirrored.png)
 
 #### Commissions
