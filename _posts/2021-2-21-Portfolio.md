@@ -11,5 +11,5 @@ These are logos I've created
 #### Commissions
 These are pieces I've been commissioned for
 
-![_config.yml]({{ site.baseurl }}/images/Cara_final_L.jpg)
+![_config.yml]({{ site.baseurl }}/images/Cara_final_S.jpg)
 
