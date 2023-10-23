@@ -2,7 +2,7 @@
 layout: post
 title: Recent Achievements
 ---
-I was honored to recieve "Outstanding Teaching Assistant Award" by the Geosciences Department at UT Dallas
+I was honored to recieve "Outstanding Teaching Assistant Award" in 2022 and 2023 by the Geosciences Department at UT Dallas. 
 
 ![TA Award](/images/TA Award 2022.jpg)
 
