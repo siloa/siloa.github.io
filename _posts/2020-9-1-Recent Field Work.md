@@ -4,7 +4,7 @@ title: Recent Field Work
 ---
 In May 2023 I traveled to Big Bend National Park in Texas as a Teaching Assistant for Field Camp I.
 
-![_config.yml]({{ site.baseurl }}
+![_config.yml]({{ site.baseurl }}images/Big Bend Sunset.jpg)
 
 In June 2022 I traveled to the Bighorn Basin in Wyoming as a Teaching Assistant for Field Camp II.
 
