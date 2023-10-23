@@ -3,12 +3,14 @@ layout: post
 title: Teaching
 ---
 #### Stratigraphy and Sedimentology Lab
-Check out the samples from the lab course I teach on my [website](https://labs.utdallas.edu/geosamples). All photos by me!
+I have taught the lab section for Stratigraphy and Sedimentology for four years. The lab reinforces lecture concepts such as sedimentary textures and structures, ichnofacies, trace fossils, and creating stratigraphic columns. We take students on two field excursions, one to Lake Murray and another to the famous I-35 Carbonate sequence in Oklahoma. At both locations, students are tasked with measuring stratigraphic sections and take detailed notes that will later be used to interpret the depositional environment.
 
-![_config.yml]({{ site.baseurl }}/images/3-6_transparent.png)
+![Lake Murray](/images/Lake Murray.jpg)
 
 #### Geocience Animations
-I teach a course on video editing and keyframe animation for geoscience majors who are interested in exploring best practices for relaying scientific information to a broad audience on a digital platform. 
+I teach an upper level elective course called Geoscience Videos and Animations. In this class I teach students video editing, 2D and 3D keyframe animation, videography, photography, and best practices for communicating science to a non-technical audience. Students are taked with writing a research paper on a topic of their choosing (related to the geosciences) and turning said paper into a video aimed at a non-technical audience. 
+
+Scientific communication is at the core of my research interests. If you are interested in viewing my latest videos, please click on the links below:
 
 [Check out my latest video on plate tectonics and metamorphism](https://www.youtube.com/watch?v=dxTFkfzPX-s&t=237s)!
 
