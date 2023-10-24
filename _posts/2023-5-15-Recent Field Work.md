@@ -2,8 +2,6 @@
 layout: post
 title: Recent Field Work
 ---
-----
-
 In May 2023 I traveled to Big Bend National Park in Texas as a Teaching Assistant for Field Camp I.
 
 ![Big Bend sunset](/images/Big Bend Sunset_M.jpg)
