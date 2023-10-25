@@ -3,8 +3,9 @@ layout: post
 Title: Video Work
 ---
 #### Selection of my video work
+----
 
-<iframe style="display: inline-block;" src="https://www.youtube.com/embed/dxTFkfzPX-s?si=OG8qlz5Ihm52MIqX" frameborder="0" allowfullscreen></iframe><img style="display: inline-block;" src="/pictures/colour_bar.png"/>
+<center><iframe width="100%" height="100%" src="https://www.youtube.com/embed/dxTFkfzPX-s?si=OG8qlz5Ihm52MIqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 
