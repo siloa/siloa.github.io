@@ -3,7 +3,8 @@ layout: post
 Title: Video Work
 ---
 #### Selection of my video work
-<center><iframe style="display: inline-block;" src="https://www.youtube.com/embed/dxTFkfzPX-s?si=OG8qlz5Ihm52MIqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><img style="display: inline-block;" src="/pictures/colour_bar.png" width="200" height="315" /></center>
+
+<iframe style="display: inline-block;" width="450" height="315" src="https://www.youtube.com/embed/dxTFkfzPX-s?si=OG8qlz5Ihm52MIqX" frameborder="0" allowfullscreen></iframe><img style="display: inline-block;" src="/pictures/colour_bar.png" width="200" height="315"/>
 
 
 
