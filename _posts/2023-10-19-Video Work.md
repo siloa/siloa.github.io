@@ -8,14 +8,14 @@ Title: Video Work
 
 
 
-<center><iframe src="https://www.youtube.com/embed/HQqrfIVkctM?si=uplcDf38FHQYj1ca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe height="100%" src="https://www.youtube.com/embed/HQqrfIVkctM?si=uplcDf38FHQYj1ca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-<center><iframe src="https://www.youtube.com/embed/0RC52Fw1E3M?si=Zt8Sape7gr1UsX55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width= "100%" src="https://www.youtube.com/embed/0RC52Fw1E3M?si=Zt8Sape7gr1UsX55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-<center><iframe src="https://www.youtube.com/embed/EZds0X9KqMM?si=NsPqeRqBEAtNjSb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width= "100%" src="https://www.youtube.com/embed/EZds0X9KqMM?si=NsPqeRqBEAtNjSb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
