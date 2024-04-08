@@ -2,7 +2,7 @@
 layout: post
 title: Papers and Abstracts
 ---
-• **Willis, S.**; Stern, R.J.; 2024. "A new video for teaching undergraduates and the public how Plate Tectonics influences Climate" In Proceedings of the GSA North-Central/South-Central Joint Section Meeting (Springfield), Springfield, MO, USA, April 20-23 2024.
+• **Willis, S.**; Stern, R.J.; 2024. "A new video for teaching undergraduates and the public how Plate Tectonics influences Climate". In Proceedings of the GSA North-Central/South-Central Joint Section Meeting (Springfield), Springfield, MO, USA, April 20-23 2024.
 
 • **Willis, S.**; Stern, R.; 2022. “Plate Tectonics and Climate: How to educate an undergraduate audience with videos/animations”. In Proceedings of the AGU Fall Meeting (Chicago), Chicago, IL, USA, 12-16 December 2022.
 
