@@ -3,7 +3,7 @@ layout: post
 title: Portfolio
 ---
 #### Illustrations
-I was happy to collaborate with the TRUST lab at UT Southwestern on a figure for their review of STING activation. You can read the full paper [here](https://www.frontiersin.org/articles/10.3389/fchbi.2024.1386220/full).
+I was happy to collaborate with the [TRUST lab at UT Southwestern](https://labs.utsouthwestern.edu/trust-lab) on a figure for their review of delivery vehicles for improved STING activation. You can read the full paper [here](https://www.frontiersin.org/articles/10.3389/fchbi.2024.1386220/full).
 
 ![_config.yml]({{ site.baseurl }}/images/STING_sbw.png)
 *<center>Novel drug delivery strategies for enhanced STING activation</center>*
