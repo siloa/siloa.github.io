@@ -2,6 +2,9 @@
 layout: post
 title: Papers and Abstracts
 ---
+• **Willis, S.**; Stern, R.J. 2025. “Plate Tectonics and Metamorphism: Teaching Complex Systems Using Videos
+and Animations”. Geosciences 15, no. 3: 79. https://doi.org/10.3390/geosciences15030079
+
 • **Willis, S.**; Stern, R.J.; 2024. "A new video for teaching undergraduates and the public how Plate Tectonics influences Climate". In Proceedings of the GSA North-Central/South-Central Joint Section Meeting (Springfield), Springfield, MO, USA, April 20-23 2024.
 
 • **Willis, S.**; Stern, R.; 2022. “Plate Tectonics and Climate: How to educate an undergraduate audience with videos/animations”. In Proceedings of the AGU Fall Meeting (Chicago), Chicago, IL, USA, 12-16 December 2022.
@@ -16,6 +19,10 @@ Audience" Geosciences 11, no. 3: 140. https://doi.org/10.3390/geosciences1103014
 
 • **Willis, S.**; Keltz, J. 2021.; “Using Photogrammetry to Create Virtual Hand Samples”. In Proceedings of the GSA
 Section Meeting (North-Central/South-Central Joint Online Section Meeting). April 2021.
+
+• Stern, R.J., Ryan, J.F., Wang, N., Richezza, V., and **Willis, S.**, 2020. Geoscience Videos and Animations,
+How to Make Them with your Students, and How to Use Them in The Classroom. GSA Today, v. 30,
+https://doi.org/10.1130/GSATG451GW.1.
 
 • **Willis, S.**; Stern, R.J.; Ryan, J.; Ricchezza, V.; 2019. “Assaying Lower Division Undergrads’ Knowledge about
 Continental Rifting to Tailor Geoscientific video/animations for Introductory Classroom Use”. In Proceedings
