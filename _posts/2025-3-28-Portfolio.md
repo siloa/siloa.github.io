@@ -15,10 +15,14 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Burst.png) 
 <br>
+<br>
 *<center>MUSIC treatment to deliver cGAMP into the cytosol of tumor-associated APCs</center>*
 <br>
 <br>
+<br>
 ![_config.yml]({{ site.baseurl }}/images/Tumor killing.png) 
+<br>
+<br>
 *<center>STING activation leads to the production of downstream interferons that assisted in T-cell activation and tumor killing</center>*
 <br>
 <br>
@@ -30,7 +34,6 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Continental shelf and Coastal Plain cross section v3.png)
-<br>
 *<center>Continental shelf and Coastal Plain schematic cross section</center>*
 <br>
 <br>
@@ -40,16 +43,13 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 <br>
 <br>
 #### Logo Designs
-<br>
-These are logos I've created
+These are logos I've created:
 <br>
 ![_config.yml]({{ site.baseurl }}/images/AAPG logo 2020.png)
-<br>
 *<center>AAPG Student Chapter Logo</center>*
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Stem 2021.jpg)
-<br>
 *<center>Playful STEM Logo</center>*
 <br>  
 <br>
@@ -58,11 +58,11 @@ These are logos I've created
 *<center>UT Dallas IBA Team Logo</center>*
 <br>
 <br>
-#### Artistic Illustrations: Just for fun!
+#### Artistic Illustrations/Renderings: Just for fun!
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Frog texture_rendered.png)
 <br>
-*<center>3D art experiment!</center>*
+*<center>3D render experiment!</center>*
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/tx.png)
@@ -86,7 +86,6 @@ These are logos I've created
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/love conquers all 2.png)
-<br>
 *<center>Halftone experiment!</center>*
 <br>
 
