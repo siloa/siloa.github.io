@@ -19,16 +19,20 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 ![_config.yml]({{ site.baseurl }}/images/Tumor killing.png) 
 *<center>STING activation leads to the production of downstream interferons that assisted in T-cell activation and tumor killing</center>*
 
+----
+
 #### Scientific Illustrations: Geosciences
 
 ![_config.yml]({{ site.baseurl }}/images/newark cross section with background.png)
 *<center>Newark schematic cross section</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/Continental shelf and Coastal Plain cross section v3.png)
-*<center>Continental shelf and Coastal Plain schematic cross section</center>*
+*<center>Continental shelf and coastal plain schematic cross section</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/plate tectonic environments.jpg)
 *<center>Schematic cross section of some plate tectonic environments</center>*
+
+----
 
 #### Logo Designs
 These are logos I've created:
@@ -40,6 +44,8 @@ These are logos I've created:
 
 ![_config.yml]({{ site.baseurl }}/images/iba logo_mirrored.png)
 *<center>UT Dallas IBA Team Logo</center>*
+
+----
 
 #### Artistic Illustrations/Renderings: Just for fun!
 ![_config.yml]({{ site.baseurl }}/images/Frog texture_rendered.png)
