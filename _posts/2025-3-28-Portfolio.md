@@ -34,6 +34,15 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 
 ----
 
+#### Scientific Illustrations: Crystallography 
+
+![_config.yml]({{ site.baseurl }}/images/bravais lattices (crystal structures)-01.png)
+
+![_config.yml]({{ site.baseurl }}/images/bravais lattices (crystal structures)-02.png)
+*<center>Bravais lattices for my Crystallography students</center>*
+
+----
+
 #### Logo Designs
 These are logos I've created:
 ![_config.yml]({{ site.baseurl }}/images/AAPG logo 2020.png)
