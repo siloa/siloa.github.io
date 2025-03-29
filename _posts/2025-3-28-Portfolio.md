@@ -2,12 +2,12 @@
 layout: post
 title: Portfolio
 ---
+<pre>
 #### Scientific Illustrations: Biomedical Engineering
 My first collaboration with the [TRUST lab at UT Southwestern](https://labs.utsouthwestern.edu/trust-lab) on a figure for their review of delivery vehicles for improved STING activation. You can read the full paper [here](https://www.frontiersin.org/articles/10.3389/fchbi.2024.1386220/full).
 
 ![_config.yml]({{ site.baseurl }}/images/STING_sbw.png)
 *<center>Novel drug delivery strategies for enhanced STING activation</center>*
-
 
 My second collaboration with the [TRUST lab at UT Southwestern](https://labs.utsouthwestern.edu/trust-lab) on a figure depicting the experimental design for MUSIC treatment of melanoma. You can read the full paper [here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202416596).
 
@@ -17,6 +17,7 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 ![_config.yml]({{ site.baseurl }}/images/Tumor killing.png) 
 *<center>STING activation leads to the production of downstream interferons that assisted in T-cell activation and tumor killing</center>*
 
+  
 #### Scientific Illustrations: Geosciences
 
 ![_config.yml]({{ site.baseurl }}/images/newark cross section with background.png)
@@ -33,8 +34,13 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 These are logos I've created
 
 ![_config.yml]({{ site.baseurl }}/images/AAPG logo 2020.png)
+*<center>AAPG Student Chapter Logo</center>*
+  
 ![_config.yml]({{ site.baseurl }}/images/Stem 2021.jpg)
+*<center>Playful STEM Logo</center>*
+  
 ![_config.yml]({{ site.baseurl }}/images/iba logo_mirrored.png)
+*<center>UT Dallas IBA Team Logo</center>*
 
 
 #### Artistic Illustrations: Just for fun!
@@ -55,7 +61,7 @@ These are logos I've created
 
 ![_config.yml]({{ site.baseurl }}/love conquers all 2.png)
 *<center>Halftone experiment!</center>*
-
+</pre>
 
 
 
