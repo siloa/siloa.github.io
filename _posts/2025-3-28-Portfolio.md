@@ -13,6 +13,8 @@ My first collaboration with the [TRUST lab at UT Southwestern](https://labs.utso
 <br>
 My second collaboration with the [TRUST lab at UT Southwestern](https://labs.utsouthwestern.edu/trust-lab) on a figure depicting the experimental design for MUSIC treatment of melanoma. You can read the full paper [here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202416596).
 <br>
+<br>
+<br>
 ![_config.yml]({{ site.baseurl }}/images/Burst.png) 
 <br>
 <br>
@@ -44,9 +46,8 @@ My second collaboration with the [TRUST lab at UT Southwestern](https://labs.uts
 <br>
 #### Logo Designs
 These are logos I've created:
-<br>
 ![_config.yml]({{ site.baseurl }}/images/AAPG logo 2020.png)
-*<center>AAPG Student Chapter Logo</center>*
+*<center>AAPG Student Chapter Logo (UT Dallas)</center>*
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Stem 2021.jpg)
@@ -66,6 +67,7 @@ These are logos I've created:
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/tx.png)
+<br>
 <br>
 *<center>Geology of Texas</center>*
 <br>
