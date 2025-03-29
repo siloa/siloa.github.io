@@ -39,22 +39,22 @@ These are logos I've created
 
 #### Artistic Illustrations: Just for fun!
 ![_config.yml]({{ site.baseurl }}/images/Frog texture_rendered.png)
-*<center>3D art experiment!>*
+*<center>3D art experiment!</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/tx.png)
-*<center>Geology of Texas>*
+*<center>Geology of Texas</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/Cara_final_M.JPG)
-*<center>Game Day in Chicago! Go Bears!>*
+*<center>Game Day in Chicago! Go Bears!</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/Milo_final_M.JPG)
-*<center>Milo the cat>*
+*<center>Milo the cat</center>*
 
 ![_config.yml]({{ site.baseurl }}/images/Nature scene-01.png)
-*<center>Nature background for a YouTube video>*
+*<center>Nature background for a YouTube video</center>*
 
 ![_config.yml]({{ site.baseurl }}/love conquers all 2.png)
-*<center>Halftone experiment!>*
+*<center>Halftone experiment!</center>*
 
 
 
