@@ -10,7 +10,7 @@ I have multiple years of experience teaching the lab section for Stratigraphy an
 
 ### More Information
 
-Outside of my research I enjoy rock climbing, yoga, hiking, crochet, quilting, and painting.
+Outside of my research I enjoy rock climbing, yoga, hiking, crochet, quilting, painting, and F1 racing.
 
 ![_config.yml]({{ site.baseurl }}/images/climbing_resize.png)
 
